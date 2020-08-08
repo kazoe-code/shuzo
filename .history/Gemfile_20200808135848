@@ -57,3 +57,5 @@ gem 'haml-rails'
 
 gem 'line-bot-api'
 gem 'dotenv-rails'
+
+gem 'puma'
